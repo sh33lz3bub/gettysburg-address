@@ -1,4 +1,8 @@
-#Gettysburg Address by Abraham Lincoln
+Gettysburg Address
+==================
+
+by Abraham Lincoln
+------------------
 
 Four score and seven years ago our father brought forth on this continent a new nation, concieved in liberty and dedicated to the proposition that all men are create equal.
 
