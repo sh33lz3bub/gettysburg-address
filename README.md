@@ -4,7 +4,7 @@ Gettysburg Address
 by Abraham Lincoln
 ------------------
 
-Four score and seven years ago our father brought forth on this continent a new nation, concieved in liberty and dedicated to the proposition that all men are create equal.
+Four score and seven years ago our fathers brought forth on this continent a new nation, concieved in liberty and dedicated to the proposition that all men are create equal.
 
 Now we are engaged in a civil war, testing whether that nation, or any nation so concieved and so dedicated, can long endure. 
 We are met on a great battlefield of that war.
